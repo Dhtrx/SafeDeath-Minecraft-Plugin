@@ -1,0 +1,6 @@
+name: SafeDeath
+version: '${project.version}'
+main: de.nxqsta.safedeath.SafeDeath
+api-version: 1.19
+authors: [ Nxqsta ]
+description: When you die your inventory is saved in a chest
